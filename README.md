@@ -7,8 +7,13 @@ We have resampled the data day wise.
 The techniques used -
 
 1 - Naive approach
+
 2 - Simple average method
+
 3 - Moving average method
+
 4 - Simple exponential smoothing
+
 5 - Double exponential smoothing
+
 6 - Tripe exponential smoothing
