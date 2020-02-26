@@ -16,4 +16,4 @@ The techniques used -
 
 5 - Double exponential smoothing
 
-6 - Tripe exponential smoothing
+6 - Triple exponential smoothing
